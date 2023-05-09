@@ -1,0 +1,11 @@
+# Set the list of arc color themes here with this format: ThemeNameWithoutSpace=6digits_hexcolorcode_no#prefix.
+#Example 
+#Aqua=66a8cb
+#comment any line you don't need
+# what arc color themes are we going to create? visit https://colorcodes.io
+Lavender=B2A4D4
+Lightsaber-green=2FF924
+Lightsaber-red=EB212E
+Lightsaber-blue=2E67F8
+School_Bus-yellow=FEDB00
+Aluminium=888b8d
